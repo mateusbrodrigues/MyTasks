@@ -3,10 +3,15 @@ Aplicativo de gerenciamento de tarefas para Android, desenvolvido como projeto d
 
 ## Como executar o projeto:
 
-Faça o clone do repositório:
+Faça o clone do projeto:
 ```
 https://github.com/mateusbrodrigues/MyTasks.git
 ```
+Faça o clone do server e deixe-o em execução: https://github.com/aduilio/to-do-app-server:
+```
+https://github.com/aduilio/to-do-app-server.git
+```
+
 ### Configurar o Firebase
 - No Firebase Console, crie um novo projeto.
 - Adicione seu aplicativo Android ao projeto, copiando o arquivo google-services.json para o diretório app/ do seu projeto.
