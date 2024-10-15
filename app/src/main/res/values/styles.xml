@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyButton" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/orange_700</item>
+        <item name="android:height">60dp</item>
+    </style>
+
+</resources>

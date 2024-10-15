@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MyTasks</string>
+    <string name="title">Título</string>
+    <string name="description">Descrição</string>
+    <string name="date">Data</string>
+    <string name="time">Hora</string>
+    <string name="save">Salvar</string>
+    <string name="notification_permission_rationale">Você receberá uma notificação para te lembrar de terminar suas tarefas.</string>
+    <string name="accept">Aceito</string>
+    <string name="not_accept">Não aceito</string>
+    <string name="notifications">Notificações</string>
+    <string name="daily_notification_off">Não receber notificações diárias</string>
+    <string name="daily_notification_on">Receber notificações diárias</string>
+    <string name="daily_notification">Notificação diária</string>
+    <string name="settings">Configurações</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="create_account">Criar conta</string>
+    <string name="logout">Sair</string>
+    <string name="mark_as_completed">Marcar como concluída</string>
+    <string name="empty_tasks">Não existe nenhuma tarefa cadastrada.\n\nQue tal criar uma nova tarefa?</string>
+    <string name="get_tasks_error">Não foi possível obter as tarefas.\n\nVerifica sua internet.</string>
+    <string name="new_task_information">Cria uma nova tarefa</string>
+    <string name="share">Compartilhar</string>
+    <string name="share_using">Compartilhar a tarefa com...</string>
+    <string name="general_preferences">Configurações Gerais</string>
+    <string name="date_format_preference">Usar o nome do mês na data</string>
+    <string name="date_expanded_preference">A data será exibida no formato extenso. Ex: 1 de Janeiro de 2024. </string>
+    <string name="date_abbreviated_preference">A data será exibida no formato abreviado. Ex: 01/01/2024. </string>
+
+</resources>
